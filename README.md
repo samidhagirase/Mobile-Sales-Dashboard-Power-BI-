@@ -20,4 +20,4 @@ Enables product quality and service assessment.
 6.Month Selector: Slicer panel on the left for monthly comparisons (January–December).
 
 
-!Image
+![Image Alt](
