@@ -20,4 +20,4 @@ Enables product quality and service assessment.
 6.Month Selector: Slicer panel on the left for monthly comparisons (January–December).
 
 
-![Image Alt](
+![Image Alt](https://github.com/samidhagirase/Mobile-Sales-Dashboard-Power-BI-/blob/4872c80084def81f4132ac1f969c0286568ad171/mobile%20sales%20dashboard.png)
